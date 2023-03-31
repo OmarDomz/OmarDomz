@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarDomz
 - 👀 I’m interested in Py PowerBi DAX , Jupiter
-- Dataspel ,Picharm , Datagrip de JET BRAINS
+- Dataspell ,Pycharm , Datagrip de JET BRAINS
 - 🌱 I’m currently LEARNING PYTHON (Pandas,Numpy,Matplotlib,Seaborn,Plotly,Scikit-learn ) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
